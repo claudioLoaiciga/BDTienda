@@ -1,0 +1,98 @@
+.contTitleService{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.subContTitleService{
+    border-bottom: 2px solid #29497a;
+    margin-bottom: 15px;
+}
+
+#titleService{
+    padding-top: 15px;
+}
+
+.contLabelBuscar{
+    float: left;
+    width:300px;
+    margin-left: 25px;
+}
+
+.labelBuscar{
+    float: left;
+    height: 60px;
+    margin-top: 7px;
+    margin-right: 7px
+}
+
+#buscar{
+    width:230px;
+}
+
+#botonRegistrar, #botonEditar, #botonEliminar, #botonGuardar{
+    background-color: #29497a;
+    border-color: #29497a;
+}
+
+#margenCont{
+    margin-right: 35px;
+}
+
+.spaceCol{
+    width:50px;
+}
+
+#marginRadio{
+    margin-left: 25px;
+}
+
+.moduloTitle{
+    border-right: 1px solid #29497a;
+    padding-right: 15px;
+}
+
+#NewEdit{
+    padding-left: 15px;
+}
+
+/*Header*/
+#contTitleClinica{
+    background-color: #193155;
+}
+
+#titleClinica{
+    color: white;
+    border-right: 1px solid white;
+    padding-right: 20px;
+}
+
+#titleContactanos, #titleRegistrar, #titleSesion{
+    color: white;
+}
+
+/*Footer*/
+#contFooter{
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+#inicioFooter{
+    border-top: 2px solid #193155;
+    color: #193155;
+}
+
+#derechosReservados{
+    padding-top: 10px;
+}
+
+#tablaFooter{
+    margin: auto;
+}
+
+#colTablaFooter{
+    padding-right: 5px;
+}
+
+#styleLinkFooter{
+    color: #29497a;
+}
